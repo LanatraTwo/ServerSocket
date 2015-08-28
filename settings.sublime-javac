@@ -1,0 +1,11 @@
+{
+    "project_name"      : "HelloWorld",
+    "output_dir"  : "output",
+    "sources_dir" : "src",
+    "resources"   : [],
+    "libs"        : [],
+    "encoding"    : "utf-8",
+
+    "entry_file"        : "Server.java",
+    "entry_point"       : "Server"
+}
